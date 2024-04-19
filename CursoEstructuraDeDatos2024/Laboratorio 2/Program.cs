@@ -11,5 +11,5 @@ for (var i = 0; i <= n; i++)
 
 
 
-Console.WriteLine("El resultado es: " + suma.ToString());
+Console.WriteLine($"La suma de los primeros {n} numeros es: {suma}");
 
